@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Moisés Macread, tenho 29 anos e sou natural de Pernambuco. Concluí o ensino médio no Erem Denival, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Apesar de começar minha carreira como o popular fala um pouco tarde, sou apaixonado por tecnologia desde minha época quando estava no colegial.
+Me chamo Moisés Macready, tenho 29 anos e sou natural de Pernambuco. Concluí o ensino médio no Erem Denival, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Apesar de começar minha carreira como o popular fala um pouco tarde, sou apaixonado por tecnologia desde minha época quando estava no colegial.
 
 
 ---
